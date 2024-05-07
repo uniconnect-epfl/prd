@@ -14,16 +14,28 @@ The folder `template` contains the outline for the PRD to get you started.
 > comments added in italics. They are only there to help start your thinking
 > process.
 
-## Using Github Actions
+## Setup
+
+1. Fork this repo into your organization and clone it 
+```
+git clone git@github.com:<your-org-name>/prd.git
+cd prd
+```
+
+2. Setup Github Actions - 
 
 To help you with generating the PDF of your PRD, this repo contains a workflow called `build_pdf.yml`.
 
 To configure the workflow, please change the following lines - 
-
-1. Team Number
+ 
+* Team Number
 
 Change the `<Team Number>` to your team's number (e.g., 26) [here](.github/workflows/build_pdf.yml#40).
 
-2. Artifact Name 
+* Artifact Name 
 
 Change the `<number>` in the PDF name for the Artifact [here](.github/workflows/build_pdf.yml#46).
+
+3. Write your PRD
+
+You can add content to your PRD and push to `main` to generate the PDF. Or you can follow a collaborative workflow of working in branches and making PRs. We trust you can self-organize as a team to achieve this.
