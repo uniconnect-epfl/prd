@@ -27,22 +27,22 @@ Functional Blocks:
 ## Data Model
 
 Announcements:
-The "Announcements" model stores information about announcements, including titles, content, publication dates, and authors.
+The Announcements model stores information about announcements, including titles, content, publication dates, and authors.
 
 Events:
-The "Events" model manages data related to events, including event titles, descriptions, dates, locations, and attendee lists.
+The Events model manages data related to events, including event titles, descriptions, dates, locations, and attendee lists.
 
 Interests:
-The "Interests" model stores user interests for personalized recommendations and matchmaking.
+The Interests model stores user interests for personalized recommendations and matchmaking.
 
 Users:
-The "Users" model manages user profiles, including usernames, email addresses, profile pictures, and associated interests.
+The Users model manages user profiles, including usernames, email addresses, profile pictures, and associated interests.
 
 Notifications:
-The "Notifications" model stores notification data, including sender, receiver, content, and timestamp, for communication between users.
+The Notifications model stores notification data, including sender, receiver, content, and timestamp, for communication between users.
 
 Messages:
-The "Messages" model manages message data between users, including sender, receiver, content, and timestamp for communication within the app.
+The Messages model manages message data between users, including sender, receiver, content, and timestamp for communication within the app.
 
 ### Organization and Storage
 
