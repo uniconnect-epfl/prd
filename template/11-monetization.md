@@ -1,6 +1,6 @@
 # Business Model
+## Expected Operating Costs
+Development Costs cover salaries for developers, designers, and QA engineers, alongside expenses related to development tools and software licenses. Infrastructure Costs encompass hosting and maintaining backend services on Firebase, including server costs and database usage fees. Marketing and Promotion require budgeting for activities like app store optimization, advertising campaigns, and promotional events. Operational Expenses cover administrative tasks, customer support, and ongoing maintenance of the application.
 
-*Expected operating Costs*
-
-*Revenue Streams*
-
+## Revenue Streams
+A Subscription Model offers premium features or plans for advanced functionalities like enhanced search filters, unlimited messaging, and priority event recommendations. In-App Purchases allow users to buy virtual goods or premium content within the app, such as exclusive event tickets, virtual gifts, or customization options. Advertisement Revenue is generated through in-app advertisements, partnering with relevant brands or businesses to display targeted ads to users based on their interests and activities within the app. Sponsorship and Partnerships involve collaborating with universities, student organizations, or local businesses to sponsor events, promote services, or offer exclusive deals to app users, generating revenue through sponsorship agreements or affiliate partnerships.
