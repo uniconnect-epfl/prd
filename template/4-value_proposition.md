@@ -1,13 +1,5 @@
 # The Value Proposition
 
-*Describe the value proposition and argue that it is:*
-
-*1. Easy to communicate*
-
-*2. Defensible*
-
-*3. Relevant*
-
 - **Problem Statement:** In today's university environment, students often struggle to form meaningful connections amidst the vast and diverse campus community. Traditional social networking platforms lack the specificity and focus needed to address the unique challenges of building genuine relationships within the academic setting.
 
 - **Ecosystem:** UniConnect is relevant to various stakeholders within the university ecosystem, including students, faculty, and administrators. It provides value to students by facilitating connections with peers who share similar interests and academic pursuits. Additionally, UniConnect benefits university administrations by promoting student engagement and retention through enhanced social connectivity.

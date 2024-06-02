@@ -1,15 +1,5 @@
 # Timeline/Resource Planning
 
-*What’s the overall schedule you’re working towards?*
-
-*What resources are required?*
-
-*What are the intermediate milestones?*
-
-*List identified sprints*
-
-
-
 **Duration:** 6 months
 **Start Date:** June 1, 2024
 **End Date:** November 30, 2024

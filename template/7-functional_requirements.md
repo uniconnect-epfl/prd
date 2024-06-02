@@ -1,13 +1,5 @@
 # Functional Requirements
 
-*Max 3 pages.*
-
-*List the key features of the MVP precisely.*
-
-*Include appropriate architectural diagrams.*
-
-*Describe key internal functionality.*
-
 ## Key Features of the MVP
 1. User Authentication: Implements Google Auth for secure user authentication, enabling users to sign in with their Google accounts. This ensures a seamless and familiar login experience for users while maintaining robust security standards.
 
